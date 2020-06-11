@@ -1,7 +1,7 @@
 # Личный проект «Шесть городов» [![Build status][travis-image]][travis-url]
 
 * Студент: [Денис Биленко](https://up.htmlacademy.ru/react/4/user/1163011).
-* Наставник: `Неизвестно`.
+* Наставник: [Илья Шайна](https://htmlacademy.ru/profile/id1517699).
 
 ---
 
