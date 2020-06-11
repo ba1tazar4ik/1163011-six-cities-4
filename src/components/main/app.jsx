@@ -3,9 +3,9 @@ import React from 'react';
 import {Main} from './main.jsx';
 
 export const App = (props) => {
-  const {advCount} = props;
+  const {amountOfOffers} = props;
 
   return <Main
-    advCount = {advCount}
+    amountOfOffers = {amountOfOffers}
   />;
 };
